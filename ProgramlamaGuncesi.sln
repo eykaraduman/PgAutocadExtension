@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgAcadTools.AutoCAD.2013", "PgAcadTools.AutoCAD.2013\PgAcadTools.AutoCAD.2013.csproj", "{4F5F1433-1B80-4170-AE43-3BE23395C38B}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "PgAcadTools.AutoCAD", "PgAcadTools.AutoCAD\PgAcadTools.AutoCAD.shproj", "{C68CC363-F4B1-4E68-91DE-C70C43E3F71E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgAcadTools.AutoCAD.2012", "PgAcadTools.AutoCAD.2012\PgAcadTools.AutoCAD.2012.csproj", "{E1BB7857-97A7-41BF-9848-E86DE4A1D18F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgAcadTools.AutoCAD.2014", "PgAcadTools.AutoCAD.2014\PgAcadTools.AutoCAD.2014.csproj", "{7D0ED554-F7BC-42C6-8865-7EC5201F217E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgAcadTools.AutoCAD.2015", "PgAcadTools.AutoCAD.2015\PgAcadTools.AutoCAD.2015.csproj", "{4A3FED55-91AB-4E69-9D4D-BF03DFBF305E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgAcadTools.AutoCAD.2016", "PgAcadTools.AutoCAD.2016\PgAcadTools.AutoCAD.2016.csproj", "{7C15F500-5A65-4384-8452-3FDD87C37E26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgAcadTools.AutoCAD.2017", "PgAcadTools.AutoCAD.2017\PgAcadTools.AutoCAD.2017.csproj", "{56A67164-8F02-40FB-BB7F-2DB407CD4F4F}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		PgAcadTools.AutoCAD\PgAcadTools.AutoCAD.projitems*{4a3fed55-91ab-4e69-9d4d-bf03dfbf305e}*SharedItemsImports = 4
+		PgAcadTools.AutoCAD\PgAcadTools.AutoCAD.projitems*{4f5f1433-1b80-4170-ae43-3be23395c38b}*SharedItemsImports = 4
+		PgAcadTools.AutoCAD\PgAcadTools.AutoCAD.projitems*{56a67164-8f02-40fb-bb7f-2db407cd4f4f}*SharedItemsImports = 4
+		PgAcadTools.AutoCAD\PgAcadTools.AutoCAD.projitems*{7c15f500-5a65-4384-8452-3fdd87c37e26}*SharedItemsImports = 4
+		PgAcadTools.AutoCAD\PgAcadTools.AutoCAD.projitems*{7d0ed554-f7bc-42c6-8865-7ec5201f217e}*SharedItemsImports = 4
+		PgAcadTools.AutoCAD\PgAcadTools.AutoCAD.projitems*{c68cc363-f4b1-4e68-91de-c70c43e3f71e}*SharedItemsImports = 13
+		PgAcadTools.AutoCAD\PgAcadTools.AutoCAD.projitems*{e1bb7857-97a7-41bf-9848-e86de4a1d18f}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F5F1433-1B80-4170-AE43-3BE23395C38B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5F1433-1B80-4170-AE43-3BE23395C38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5F1433-1B80-4170-AE43-3BE23395C38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5F1433-1B80-4170-AE43-3BE23395C38B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1BB7857-97A7-41BF-9848-E86DE4A1D18F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1BB7857-97A7-41BF-9848-E86DE4A1D18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1BB7857-97A7-41BF-9848-E86DE4A1D18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1BB7857-97A7-41BF-9848-E86DE4A1D18F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D0ED554-F7BC-42C6-8865-7EC5201F217E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0ED554-F7BC-42C6-8865-7EC5201F217E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0ED554-F7BC-42C6-8865-7EC5201F217E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0ED554-F7BC-42C6-8865-7EC5201F217E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A3FED55-91AB-4E69-9D4D-BF03DFBF305E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A3FED55-91AB-4E69-9D4D-BF03DFBF305E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A3FED55-91AB-4E69-9D4D-BF03DFBF305E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A3FED55-91AB-4E69-9D4D-BF03DFBF305E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C15F500-5A65-4384-8452-3FDD87C37E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C15F500-5A65-4384-8452-3FDD87C37E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C15F500-5A65-4384-8452-3FDD87C37E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C15F500-5A65-4384-8452-3FDD87C37E26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A67164-8F02-40FB-BB7F-2DB407CD4F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A67164-8F02-40FB-BB7F-2DB407CD4F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A67164-8F02-40FB-BB7F-2DB407CD4F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A67164-8F02-40FB-BB7F-2DB407CD4F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADC17730-ED2C-471E-B5FD-16C51D8DA7A3}
+	EndGlobalSection
+EndGlobal
