@@ -36,6 +36,12 @@ namespace PgAcadToolsAddin
                 doc.Editor.WriteMessage("\nPgAcadTools.AutoCAD.2016 loaded.");
 #elif ACAD2017
                 doc.Editor.WriteMessage("\nPgAcadTools.AutoCAD.2017 loaded.");
+#elif ACAD2018
+                doc.Editor.WriteMessage("\nPgAcadTools.AutoCAD.2018 loaded.");
+#elif ACAD2019
+                doc.Editor.WriteMessage("\nPgAcadTools.AutoCAD.2019 loaded.");
+#elif ACAD2020
+                doc.Editor.WriteMessage("\nPgAcadTools.AutoCAD.2020 loaded.");
 #endif
             }
         }

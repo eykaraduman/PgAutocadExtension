@@ -17,14 +17,23 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgAcadTools.AutoCAD.2016", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgAcadTools.AutoCAD.2017", "PgAcadTools.AutoCAD.2017\PgAcadTools.AutoCAD.2017.csproj", "{56A67164-8F02-40FB-BB7F-2DB407CD4F4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgAcadTools.AutoCAD.2018", "PgAcadTools.AutoCAD.2018\PgAcadTools.AutoCAD.2018.csproj", "{136BE846-B538-414D-BE59-382FF6109258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgAcadTools.AutoCAD.2019", "PgAcadTools.AutoCAD.2019\PgAcadTools.AutoCAD.2019.csproj", "{07F85923-60A2-42F0-AA3E-7EA9A67BB7FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgAcadTools.AutoCAD.2020", "PgAcadTools.AutoCAD.2020\PgAcadTools.AutoCAD.2020.csproj", "{D233A6CE-A58C-4887-9B10-ED7182194BB9}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		PgAcadTools.AutoCAD\PgAcadTools.AutoCAD.projitems*{07f85923-60a2-42f0-aa3e-7ea9a67bb7fd}*SharedItemsImports = 4
+		PgAcadTools.AutoCAD\PgAcadTools.AutoCAD.projitems*{136be846-b538-414d-be59-382ff6109258}*SharedItemsImports = 4
 		PgAcadTools.AutoCAD\PgAcadTools.AutoCAD.projitems*{4a3fed55-91ab-4e69-9d4d-bf03dfbf305e}*SharedItemsImports = 4
 		PgAcadTools.AutoCAD\PgAcadTools.AutoCAD.projitems*{4f5f1433-1b80-4170-ae43-3be23395c38b}*SharedItemsImports = 4
 		PgAcadTools.AutoCAD\PgAcadTools.AutoCAD.projitems*{56a67164-8f02-40fb-bb7f-2db407cd4f4f}*SharedItemsImports = 4
 		PgAcadTools.AutoCAD\PgAcadTools.AutoCAD.projitems*{7c15f500-5a65-4384-8452-3fdd87c37e26}*SharedItemsImports = 4
 		PgAcadTools.AutoCAD\PgAcadTools.AutoCAD.projitems*{7d0ed554-f7bc-42c6-8865-7ec5201f217e}*SharedItemsImports = 4
 		PgAcadTools.AutoCAD\PgAcadTools.AutoCAD.projitems*{c68cc363-f4b1-4e68-91de-c70c43e3f71e}*SharedItemsImports = 13
+		PgAcadTools.AutoCAD\PgAcadTools.AutoCAD.projitems*{d233a6ce-a58c-4887-9b10-ed7182194bb9}*SharedItemsImports = 4
 		PgAcadTools.AutoCAD\PgAcadTools.AutoCAD.projitems*{e1bb7857-97a7-41bf-9848-e86de4a1d18f}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +65,18 @@ Global
 		{56A67164-8F02-40FB-BB7F-2DB407CD4F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56A67164-8F02-40FB-BB7F-2DB407CD4F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56A67164-8F02-40FB-BB7F-2DB407CD4F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{136BE846-B538-414D-BE59-382FF6109258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136BE846-B538-414D-BE59-382FF6109258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136BE846-B538-414D-BE59-382FF6109258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136BE846-B538-414D-BE59-382FF6109258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F85923-60A2-42F0-AA3E-7EA9A67BB7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F85923-60A2-42F0-AA3E-7EA9A67BB7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F85923-60A2-42F0-AA3E-7EA9A67BB7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F85923-60A2-42F0-AA3E-7EA9A67BB7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D233A6CE-A58C-4887-9B10-ED7182194BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D233A6CE-A58C-4887-9B10-ED7182194BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D233A6CE-A58C-4887-9B10-ED7182194BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D233A6CE-A58C-4887-9B10-ED7182194BB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,12 +4,12 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{136BE846-B538-414D-BE59-382FF6109258}</ProjectGuid>
+    <ProjectGuid>{07F85923-60A2-42F0-AA3E-7EA9A67BB7FD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>PgAcadTools.AutoCAD</RootNamespace>
-    <AssemblyName>PgAcadTools.AutoCAD.2018</AssemblyName>
-    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <AssemblyName>PgAcadTools.AutoCAD.2019</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
@@ -18,7 +18,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>bin\Debug\</OutputPath>
-    <DefineConstants>TRACE;DEBUG;ACAD2018</DefineConstants>
+    <DefineConstants>TRACE;DEBUG;ACAD2019</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
@@ -35,40 +35,40 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AcCoreMgd">
-      <HintPath>..\..\..\..\..\ObjectARX\2018\inc\AcCoreMgd.dll</HintPath>
+      <HintPath>..\..\..\..\..\ObjectARX\2019\inc\AcCoreMgd.dll</HintPath>
     </Reference>
     <Reference Include="AcCui">
-      <HintPath>..\..\..\..\..\ObjectARX\2018\inc\AcCui.dll</HintPath>
+      <HintPath>..\..\..\..\..\ObjectARX\2019\inc\AcCui.dll</HintPath>
     </Reference>
     <Reference Include="AcDbMgd">
-      <HintPath>..\..\..\..\..\ObjectARX\2018\inc\AcDbMgd.dll</HintPath>
+      <HintPath>..\..\..\..\..\ObjectARX\2019\inc\AcDbMgd.dll</HintPath>
     </Reference>
     <Reference Include="acdbmgdbrep">
-      <HintPath>..\..\..\..\..\ObjectARX\2018\inc\acdbmgdbrep.dll</HintPath>
+      <HintPath>..\..\..\..\..\ObjectARX\2019\inc\acdbmgdbrep.dll</HintPath>
     </Reference>
     <Reference Include="AcDx">
-      <HintPath>..\..\..\..\..\ObjectARX\2018\inc\AcDx.dll</HintPath>
+      <HintPath>..\..\..\..\..\ObjectARX\2019\inc\AcDx.dll</HintPath>
     </Reference>
     <Reference Include="AcMgd">
-      <HintPath>..\..\..\..\..\ObjectARX\2018\inc\AcMgd.dll</HintPath>
+      <HintPath>..\..\..\..\..\ObjectARX\2019\inc\AcMgd.dll</HintPath>
     </Reference>
     <Reference Include="AcMr">
-      <HintPath>..\..\..\..\..\ObjectARX\2018\inc\AcMr.dll</HintPath>
+      <HintPath>..\..\..\..\..\ObjectARX\2019\inc\AcMr.dll</HintPath>
     </Reference>
     <Reference Include="AcTcMgd">
-      <HintPath>..\..\..\..\..\ObjectARX\2018\inc\AcTcMgd.dll</HintPath>
+      <HintPath>..\..\..\..\..\ObjectARX\2019\inc\AcTcMgd.dll</HintPath>
     </Reference>
     <Reference Include="AcWindows">
-      <HintPath>..\..\..\..\..\ObjectARX\2018\inc\AcWindows.dll</HintPath>
+      <HintPath>..\..\..\..\..\ObjectARX\2019\inc\AcWindows.dll</HintPath>
     </Reference>
     <Reference Include="AdUIMgd">
-      <HintPath>..\..\..\..\..\ObjectARX\2018\inc\AdUIMgd.dll</HintPath>
+      <HintPath>..\..\..\..\..\ObjectARX\2019\inc\AdUIMgd.dll</HintPath>
     </Reference>
     <Reference Include="AdUiPalettes">
-      <HintPath>..\..\..\..\..\ObjectARX\2018\inc\AdUiPalettes.dll</HintPath>
+      <HintPath>..\..\..\..\..\ObjectARX\2019\inc\AdUiPalettes.dll</HintPath>
     </Reference>
     <Reference Include="AdWindows">
-      <HintPath>..\..\..\..\..\ObjectARX\2018\inc\AdWindows.dll</HintPath>
+      <HintPath>..\..\..\..\..\ObjectARX\2019\inc\AdWindows.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

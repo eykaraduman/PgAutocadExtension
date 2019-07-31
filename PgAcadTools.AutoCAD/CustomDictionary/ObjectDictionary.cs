@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PgAcadTools.AutoCAD.CustomDictionary
 {
-    class ObjectDictionary
+    public class ObjectDictionary
     {
     }
 }
